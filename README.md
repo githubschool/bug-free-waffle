@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: November 09 - 10, 2020
+- Class Date: November 09, 2020
 - Facilitator: @parkerbxyz
 
 ## Talk to Us!!
